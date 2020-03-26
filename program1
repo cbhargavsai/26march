@@ -1,0 +1,12 @@
+public class string
+{
+	  public static void main(String[] args) {
+		  String str = "Bhargavsai";
+		  System.out.println("Real string="+ str);
+		  int index1=str.charAt(0);
+		  int index2=str.charAt(7);
+		  System.out.println("the character at 0 is="+ (char)index1);
+		  System.out.println("the character at 7 is="+ (char)index2);
+		  
+		 }
+		}
